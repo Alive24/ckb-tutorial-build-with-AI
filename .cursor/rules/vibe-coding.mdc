@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Follow the tutorial structure: Summary, Setup, Start, Understand, Customize, Next Steps.
+- Use simple web UIs and deploy to testnet for dApp tutorials.
+- Test and debug scripts thoroughly before sharing.
+- Reference official documentation and playgrounds for examples.

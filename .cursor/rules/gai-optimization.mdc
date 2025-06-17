@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use Context7 to aggregate and summarize protocol changes and best practices.
+- Use DeepWiki for advanced research and troubleshooting.
+- Review all AI-generated content for accuracy and security.
+- Use version control and code review for AI-generated code and docs.

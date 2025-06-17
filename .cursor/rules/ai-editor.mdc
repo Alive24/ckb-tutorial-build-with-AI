@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use Cursor's AI features to generate, refactor, and document code, but always review and test AI-generated output.
+- When using AI to write documentation, ensure technical accuracy and clarity.
+- Use comments to clarify AI-generated logic.
+- Integrate with version control to track changes.

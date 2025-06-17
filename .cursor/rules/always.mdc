@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Always review and test AI-generated code before deploying.
+- Use clear, descriptive commit messages and document major changes.
+- Prefer modular, reusable code and documentation snippets.
+- Use inline comments to explain non-obvious code, especially AI-generated logic.
+- Store effective prompts and rules in the `03-assisted-coding/` directory for team reference.
+- Commit frequently and pull before pushing to avoid conflicts.
+- Do not include sensitive information in prompts or code.
+- Ensure all code and documentation complies with open-source licenses and project guidelines.

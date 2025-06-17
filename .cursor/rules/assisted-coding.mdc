@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use clear, descriptive names for variables, functions, and files.
+- Place tests in a `test` directory or use `*.test.ts` naming convention.
+- Be specific and provide context in AI prompts.
+- Use ESLint or similar tools to enforce code quality.
+- Review all AI-generated code for security and correctness.

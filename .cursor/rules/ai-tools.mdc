@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use DeepWiki to search for code patterns, best practices, and troubleshooting tips.
+- Always verify AI-generated summaries and code.
+- Integrate AI tools into your workflow for faster problem-solving.
